@@ -1,2 +1,2 @@
 # Servidor-do-Kwitter
-Servidor local em PHP do App Kwitter com comunicação via JSON.
+Backend PHP do App Kwitter com comunicação via JSON.
